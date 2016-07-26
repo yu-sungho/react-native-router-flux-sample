@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/yusungho/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/yusungho/Development/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/library-2.4.0-b5f569503f437b0235158153b1f3bb3180f2bf53.jar" />
+    </item>
+    <item
+        jar="/Users/yusungho/Development/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.30.0/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0bbd1350ccbd98c0648b9a8bd1242233847886ba">
+        <dex dex="/Users/yusungho/Development/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5-2953f70b085550f3835ee3c19d99cc1c3854e609.jar" />
+    </item>
+    <item
+        jar="/Users/yusungho/Development/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/yusungho/Development/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes-54344c384e7976984a79546ccb3571d8e2640fef.jar" />
+    </item>
+    <item
+        jar="/Users/yusungho/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/yusungho/Development/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0-9978d2c04047da437f3c06a28c995102447fe764.jar" />
+    </item>
+    <item
+        jar="/Users/yusungho/Development/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/yusungho/Development/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes-133e0a6e4f31b89a319022d84bb097b6ba7982c3.jar" />
+    </item>
+    <item
+        jar="/Users/yusungho/Development/AwesomeProject/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/yusungho/Development/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes-5bfdda32d4c60ff2b171c1787124ca0387fb7554.jar" />
+    </item>
+    <item
+        jar="/Users/yusungho/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/yusungho/Development/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/okio-1.8.0-887b7fe100b5a088233ece507d2c0d12e4bab332.jar" />
+    </item>
+    <item
+        jar="/Users/yusungho/Development/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/yusungho/Development/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes-60994a0af29c89c264cd82d91429ddb836a6fec7.jar" />
+    </item>
+    <item
+        jar="/Users/yusungho/Development/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.30.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b3e583f69ed6ccd7cc7f5fe75e41464ffafb8e17">
+        <dex dex="/Users/yusungho/Development/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes-693f7bf0330bab1ea519b563e29e16c6682fba99.jar" />
+    </item>
+    <item
+        jar="/Users/yusungho/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/yusungho/Development/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-2c9629eaedba638283bcaf19141640f3eaca4faa.jar" />
+    </item>
+    <item
+        jar="/Users/yusungho/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.2.0/6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c/okhttp-urlconnection-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6f8a4b1435c9e0a6f9c5fe4a1be46627b848fd0c">
+        <dex dex="/Users/yusungho/Development/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.2.0-c4dd4d243faff0d1c9a243790a042ebaf8892338.jar" />
+    </item>
+    <item
+        jar="/Users/yusungho/Development/AwesomeProject/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/yusungho/Development/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes-bd184ef1757ab9b45c622183a74c95bdd66e4f8f.jar" />
+    </item>
+    <item
+        jar="/Users/yusungho/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/yusungho/Development/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3-dc09e65db6e9a8d727443ffeaeed12e431bf284f.jar" />
+    </item>
+    <item
+        jar="/Users/yusungho/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/Users/yusungho/Development/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/okhttp-3.2.0-c2a57241d596fad19e6160a28bbc115b23cf8ead.jar" />
+    </item>
+    <item
+        jar="/Users/yusungho/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.2.0/1ea229d6984444c8c58b8e97ba4c8429d9d135b3/okhttp-ws-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ea229d6984444c8c58b8e97ba4c8429d9d135b3">
+        <dex dex="/Users/yusungho/Development/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.2.0-daecc0cadd6e505fc97e4d3835937761d27f8319.jar" />
+    </item>
+    <item
+        jar="/Users/yusungho/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/yusungho/Development/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1-77b030770e2b143896fc6e9da5349bc8c23a138d.jar" />
+    </item>
+    <item
+        jar="/Users/yusungho/Development/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/yusungho/Development/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes-08fcae9fc73aab8113924c78d6a718105b826e6e.jar" />
+    </item>
+    <item
+        jar="/Users/yusungho/Development/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/yusungho/Development/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes-17f5db5ad0752cddc0cefb04321a55c0f3feab0b.jar" />
+    </item>
+    <item
+        jar="/Users/yusungho/Development/AwesomeProject/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/yusungho/Development/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-b765cf4203a3e1baad279c7f62bdf601d7f3a946.jar" />
+    </item>
+    <item
+        jar="/Users/yusungho/Development/AwesomeProject/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/yusungho/Development/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes-fbbd46573d8ae4ce6348f1003417fdd971a05414.jar" />
+    </item>
+    <item
+        jar="/Users/yusungho/Development/AwesomeProject/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/yusungho/Development/AwesomeProject/android/app/build/intermediates/pre-dexed/debug/classes-c00386fbd46fdb9bfbb9705ad1e024fee2626c0a.jar" />
+    </item>
+
+</items>
