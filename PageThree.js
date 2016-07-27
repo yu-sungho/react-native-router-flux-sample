@@ -8,7 +8,7 @@ export default class PageThree extends Component {
   constructor(props, context) {
     super(props, context);
     this.state = {
-        pageTwoData : 'test'
+        filterData: this.props.filterData
     }
   }
 
@@ -17,7 +17,14 @@ export default class PageThree extends Component {
   }
 
   _handlePress() {
-    console.log("handlePress");
+    this.setState({filterData: "Success Detail Message"});
+  }
+
+  shouldComponentUpdate(nextProps, nextState) {
+    if (JSON.stringify(this.state) !== JSON.stringify(nextState)) {
+        this.props.navigationState.state = nextState;
+    }
+    return true;
   }
 
     render() {
@@ -28,7 +35,7 @@ export default class PageThree extends Component {
             containerStyle={{padding:10, height:45, overflow:'hidden', borderRadius:4, backgroundColor: 'green'}}
             style={{flex:1, fontSize: 20, color: '#FFF'}}
             onPress={() => this._handlePress()}>
-            Login Button
+            Value Change
            </Button>
         </View>
       )
