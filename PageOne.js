@@ -10,14 +10,14 @@ export default class PageOne extends Component {
   }
 
  _handlePress() {
-    Actions.pageTwo({type: ActionConst.REPLACE, text: 'Hello World11!'});
+    Actions.pageTwo({type: ActionConst.REPLACE, loginMessage: "Success Login!"});
  }
 
  render() {
 
    return (
      <View style={{flexDirection:'column', flex:1, justifyContent: 'center', alignItems: 'center'}}>
-       <Text style={{fontSize:50, paddingBottom:20}}>Login {this.props.text}</Text>
+       <Text style={{fontSize:50, paddingBottom:20}}>Login</Text>
        <Button
         containerStyle={{padding:10, height:45, overflow:'hidden', borderRadius:4, backgroundColor: 'green'}}
         style={{flex:1, fontSize: 20, color: '#FFF'}}
